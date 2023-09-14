@@ -197,6 +197,10 @@
       "processSurfaceColor": {
         "value": "#f0f8fd",
         "type": "color"
+      },
+      "test": {
+        "value": "#fff",
+        "type": "color"
       }
     },
     "Dark": {
