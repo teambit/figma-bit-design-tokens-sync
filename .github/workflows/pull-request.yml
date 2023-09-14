@@ -1,0 +1,26 @@
+name: Pull Request Build
+on:
+  pull_request:
+    types:
+      - opened
+      - synchronize
+permissions:
+  pull-requests: write
+jobs:
+  prbuild:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      BIT_CONFIG_USER_TOKEN: ${{ secrets.BIT_CONFIG_USER_TOKEN }}
+      NODE_OPTIONS: --max_old_space_size=4096
+    steps:
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 16
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Initialize Bit
+        uses: bit-tasks/init@v1
+      - name: Bit Pull Request
+        uses: bit-tasks/pull-request@main
