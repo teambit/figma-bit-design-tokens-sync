@@ -1,0 +1,403 @@
+{
+  "Bit cloud": {
+    "Light": {
+      "backgroundColor": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "onBackgroundColor": {
+        "value": "#2b2b2b",
+        "type": "color"
+      },
+      "onBackgroundMediumColor": {
+        "value": "#707279",
+        "type": "color"
+      },
+      "onBackgroundLowColor": {
+        "value": "#9598a1",
+        "type": "color"
+      },
+      "onBackgroundHighColor": {
+        "value": "#2b2b2b",
+        "type": "color"
+      },
+      "primaryColor": {
+        "value": "#5d48ff",
+        "type": "color"
+      },
+      "onPrimaryColor": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "borderMediumColor": {
+        "value": "#ededed",
+        "type": "color"
+      },
+      "borderMediumHoverColor": {
+        "value": "#cecece",
+        "type": "color"
+      },
+      "borderMediumFocusColor": {
+        "value": "#c6c6c6",
+        "type": "color"
+      },
+      "borderMediumActiveColor": {
+        "value": "#afafaf",
+        "type": "color"
+      },
+      "borderHighColor": {
+        "value": "#babec9",
+        "type": "color"
+      },
+      "borderHighHoverColor": {
+        "value": "#a3a6b0",
+        "type": "color"
+      },
+      "borderHighFocusColor": {
+        "value": "#9da1a9",
+        "type": "color"
+      },
+      "borderHighActiveColor": {
+        "value": "#8c8f96",
+        "type": "color"
+      },
+      "borderPrimaryColor": {
+        "value": "#5d48ff",
+        "type": "color"
+      },
+      "borderPrimaryHoverColor": {
+        "value": "#8376eb",
+        "type": "color"
+      },
+      "borderPrimaryFocusColor": {
+        "value": "#897dec",
+        "type": "color"
+      },
+      "borderPrimaryActiveColor": {
+        "value": "#8f83ed",
+        "type": "color"
+      },
+      "surfaceColor": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "surfaceHoverColor": {
+        "value": "#edebfc",
+        "type": "color"
+      },
+      "surfaceActiveColor": {
+        "value": "#dcd8f9",
+        "type": "color"
+      },
+      "surfaceFocusColor": {
+        "value": "#e2defa",
+        "type": "color"
+      },
+      "onSurfaceColor": {
+        "value": "#2b2b2b",
+        "type": "color"
+      },
+      "onSurfaceMediumColor": {
+        "value": "#707279",
+        "type": "color"
+      },
+      "onSurfaceLowColor": {
+        "value": "#9598a1",
+        "type": "color"
+      },
+      "surface01Color": {
+        "value": "#fffbff",
+        "type": "color"
+      },
+      "surface02Color": {
+        "value": "#f7f2fd",
+        "type": "color"
+      },
+      "surfacePrimaryColor": {
+        "value": "#140068",
+        "type": "color"
+      },
+      "surfacePrimaryHoverColor": {
+        "value": "#3a2980",
+        "type": "color"
+      },
+      "surfacePrimaryActiveColor": {
+        "value": "#433386",
+        "type": "color"
+      },
+      "surfacePrimaryFocusColor": {
+        "value": "#4c3d8c",
+        "type": "color"
+      },
+      "onSurfacePrimaryColor": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "surfaceNeutralColor": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "surfaceNeutralHoverColor": {
+        "value": "#f4f5f6",
+        "type": "color"
+      },
+      "surfaceNeutralFocusColor": {
+        "value": "#f1f2f4",
+        "type": "color"
+      },
+      "surfaceNeutralActiveColor": {
+        "value": "#eeeff2",
+        "type": "color"
+      },
+      "onSurfaceNeutralHighColor": {
+        "value": "#2b2b2b",
+        "type": "color"
+      },
+      "onSurfaceNeutralMediumColor": {
+        "value": "#707279",
+        "type": "color"
+      },
+      "onSurfaceNeutralLowColor": {
+        "value": "#9598a1",
+        "type": "color"
+      },
+      "positiveColor": {
+        "value": "#37b26c",
+        "type": "color"
+      },
+      "negativeColor": {
+        "value": "#e62e5c",
+        "type": "color",
+        "description": "error : on-error\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ❌ Fail\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass"
+      },
+      "warningColor": {
+        "value": "#ffc640",
+        "type": "color"
+      },
+      "processColor": {
+        "value": "#0984e3",
+        "type": "color"
+      },
+      "primarySurfaceColor": {
+        "value": "#f6f5fe",
+        "type": "color"
+      },
+      "positiveSurfaceColor": {
+        "value": "#f3faf6",
+        "type": "color"
+      },
+      "negativeSurfaceColor": {
+        "value": "#fdf2f5",
+        "type": "color"
+      },
+      "warningSurfaceColor": {
+        "value": "#fffcf4",
+        "type": "color"
+      },
+      "processSurfaceColor": {
+        "value": "#f0f8fd",
+        "type": "color"
+      }
+    },
+    "Dark": {
+      "backgroundColor": {
+        "value": "#121212",
+        "type": "color"
+      },
+      "onBackgroundColor": {
+        "value": "#ededed",
+        "type": "color"
+      },
+      "onBackgroundMediumColor": {
+        "value": "#a3a3a2",
+        "type": "color"
+      },
+      "primaryColor": {
+        "value": "#6a57fd",
+        "type": "color"
+      },
+      "onPrimaryColor": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "borderPrimaryColor": {
+        "value": "#a9a0ff",
+        "type": "color"
+      },
+      "borderPrimaryHoverColor": {
+        "value": "#b7afff",
+        "type": "color"
+      },
+      "borderPrimaryFocusColor": {
+        "value": "#bab3ff",
+        "type": "color"
+      },
+      "borderPrimaryActiveColor": {
+        "value": "#c4beff",
+        "type": "color"
+      },
+      "borderMediumColor": {
+        "value": "#3d3d3c",
+        "type": "color"
+      },
+      "borderMediumHoverColor": {
+        "value": "#a3a6b0",
+        "type": "color"
+      },
+      "borderMediumFocusColor": {
+        "value": "#9da1a9",
+        "type": "color"
+      },
+      "borderMediumActiveColor": {
+        "value": "#8c8f96",
+        "type": "color"
+      },
+      "borderHighColor": {
+        "value": "#515150",
+        "type": "color"
+      },
+      "borderHighHoverColor": {
+        "value": "#6d6d6c",
+        "type": "color"
+      },
+      "borderHighFocusColor": {
+        "value": "#747473",
+        "type": "color"
+      },
+      "borderHighActiveColor": {
+        "value": "#898988",
+        "type": "color"
+      },
+      "surfaceColor": {
+        "value": "#121212",
+        "type": "color"
+      },
+      "surfaceHoverColor": {
+        "value": "#2c2b36",
+        "type": "color"
+      },
+      "surfaceActiveColor": {
+        "value": "#373546",
+        "type": "color"
+      },
+      "surfaceFocusColor": {
+        "value": "#31303e",
+        "type": "color"
+      },
+      "surfaceNeutralHoverColor": {
+        "value": "#383838",
+        "type": "color"
+      },
+      "surfaceNeutralActiveColor": {
+        "value": "#4b4b4b",
+        "type": "color"
+      },
+      "surfaceNeutralFocusColor": {
+        "value": "#414141",
+        "type": "color"
+      },
+      "onSurfaceColor": {
+        "value": "#fffbff",
+        "type": "color"
+      },
+      "onSurfaceMediumColor": {
+        "value": "#a3a3a2",
+        "type": "color"
+      },
+      "onSurfaceLowColor": {
+        "value": "#282828",
+        "type": "color"
+      },
+      "surfacePrimaryColor": {
+        "value": "#4034a4",
+        "type": "color"
+      },
+      "surfacePrimaryHoverColor": {
+        "value": "#392980",
+        "type": "color"
+      },
+      "surfacePrimaryActiveColor": {
+        "value": "#423386",
+        "type": "color"
+      },
+      "surfacePrimaryFocusColor": {
+        "value": "#4c3d8c",
+        "type": "color"
+      },
+      "onSurfacePrimaryColor": {
+        "value": "#fffbff",
+        "type": "color"
+      },
+      "surfaceNeutralColor": {
+        "value": "#121212",
+        "type": "color"
+      },
+      "onSurfaceNeutralHighColor": {
+        "value": "#fffbff",
+        "type": "color"
+      },
+      "onSurfaceNeutralMediumColor": {
+        "value": "#a3a3a2",
+        "type": "color"
+      },
+      "onSurfaceNeutralLowColor": {
+        "value": "#282828",
+        "type": "color"
+      },
+      "positiveColor": {
+        "value": "#378751",
+        "type": "color"
+      },
+      "negativeColor": {
+        "value": "#b6344f",
+        "type": "color"
+      },
+      "warningColor": {
+        "value": "#bb8c25",
+        "type": "color"
+      },
+      "processColor": {
+        "value": "#2174c6",
+        "type": "color"
+      },
+      "primarySurfaceColor": {
+        "value": "#252338",
+        "type": "color"
+      },
+      "positiveSurfaceColor": {
+        "value": "#0c1e12",
+        "type": "color"
+      },
+      "negativeSurfaceColor": {
+        "value": "#280b11",
+        "type": "color"
+      },
+      "warningSurfaceColor": {
+        "value": "#291f08",
+        "type": "color"
+      },
+      "processSurfaceColor": {
+        "value": "#071a2c",
+        "type": "color"
+      },
+      "border-primary-low": {
+        "value": "#29178d",
+        "type": "color"
+      },
+      "surface-greyScale 1": {
+        "value": "#161616",
+        "type": "color"
+      },
+      "surface-greyScale 2": {
+        "value": "#282828",
+        "type": "color"
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "Bit cloud"
+    ]
+  }
+}
