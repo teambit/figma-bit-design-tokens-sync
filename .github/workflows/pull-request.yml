@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      BIT_TOKEN: ${{ secrets.BIT_TOKEN }}
+      BIT_TOKEN: ${{ secrets.BIT_CONFIG_USER_TOKEN }}
       NODE_OPTIONS: --max_old_space_size=4096
     steps:
       - name: Set up Node.js
