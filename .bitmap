@@ -9,5 +9,11 @@
  */
 
 {
+    "themes/base-theme": {
+        "scope": "teambit.design",
+        "version": "0.1.33",
+        "mainFile": "index.ts",
+        "rootDir": "design/themes/base-theme"
+    },
     "$schema-version": "16.0.0"
 }
